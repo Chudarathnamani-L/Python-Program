@@ -6,3 +6,7 @@ print(c)
 d=19
 e=27
 print(d+e)
+
+
+name="chooda"
+print(name)
